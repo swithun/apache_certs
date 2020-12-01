@@ -32,7 +32,7 @@ certificate for the domain, plus root and intermediate certificates),
 use `install.sh` to help with the installation of these. Using the
 example above, you could type:
 
-./install.sh www.example.com_2020/ example.zip
+`./install.sh www.example.com_2020/ example.zip`
 
 This will generate the following files:
 
